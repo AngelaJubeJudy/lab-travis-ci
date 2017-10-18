@@ -1,7 +1,7 @@
 # nyu-travis-ci
 
 [![Build Status](https://travis-ci.org/AngelaJubeJudy/lab-travis-ci.svg?branch=AngelaJubeJudy-patch-1)](https://travis-ci.org/AngelaJubeJudy/lab-travis-ci)
-[![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
+[![Codecov](https://img.shields.io/codecov/c/github/AngelaJubeJudy/lab-travis-ci.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
     
